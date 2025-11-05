@@ -1,12 +1,27 @@
-## Hi there 👋
+# PrangeLab
 
-<!--
+Code and pipelines developed in the PrangeLab at Amsterdam UMC.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Focus Areas
+- Single-cell and spatial transcriptomics  
+- Epigenomics (ChIP-seq, ATAC-seq, CUT&Tag)  
+- Functional genomics (CRISPR screens, perturb-seq)
+
+---
+
+### Featured Repositories
+- [scRNA-seq_helper_functions](https://github.com/prangelab/scRNA-seq_helper_functions): utility functions for single-cell RNA-seq analysis  
+- [coloRspacer](https://github.com/prangelab/coloRspacer): lightweight colorpallette generator for reproducible plotting  
+- [omnomnomics_BASH](https://github.com/prangelab/omnomnomics_BASH): modular Bash pipeline for omics data processing  
+
+---
+
+### Website
+[https://prangelab.org](https://prangelab.org)
+
+---
+
+### Contact
+k.h.prange@amsterdamumc.nl
