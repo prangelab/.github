@@ -13,7 +13,7 @@ Code and pipelines developed in the PrangeLab at Amsterdam UMC.
 
 ### Featured Repositories
 - [scRNA-seq_helper_functions](https://github.com/prangelab/scRNA-seq_helper_functions): utility functions for single-cell RNA-seq analysis  
-- [coloRspacer](https://github.com/prangelab/coloRspacer): lightweight colorpallette generator for reproducible plotting  
+- [coloRspacer](https://github.com/prangelab/coloRspacer): lightweight color pallette generator for reproducible plotting  
 - [omnomnomics_BASH](https://github.com/prangelab/omnomnomics_BASH): modular Bash pipeline for omics data processing  
 
 ---
