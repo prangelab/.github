@@ -1,5 +1,4 @@
-# .github
-#### PrangeLab
+# PrangeLab
 
 Code and pipelines developed in the PrangeLab at Amsterdam UMC.
 
